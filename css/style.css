@@ -8,7 +8,11 @@
 
 /* Jumbotron */
 .jumbotron {
+<<<<<<< HEAD
     background: url(../img/cooking1.jpg);
+=======
+    background: url(../img/bc.jpg);
+>>>>>>> d56cf2b2eb473cae8862cb452daf1091fdc2e291
     background-size: cover;
     height: 540px;
     position: relative;
