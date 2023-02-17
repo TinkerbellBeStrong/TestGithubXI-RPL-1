@@ -8,11 +8,7 @@
 
 /* Jumbotron */
 .jumbotron {
-<<<<<<< HEAD
     background: url(../img/cooking1.jpg);
-=======
-    background: url(../img/bc.jpg);
->>>>>>> d56cf2b2eb473cae8862cb452daf1091fdc2e291
     background-size: cover;
     height: 540px;
     position: relative;
@@ -264,7 +260,7 @@
     .nav-link.active::after {
         content: '';
         display: block;
-        border-bottom: 3px solid #0B63DC;
+        border-bottom: 3px solid #ca2363;
         margin: auto;
         margin-bottom: -8px;
         width: 50%;
