@@ -8,7 +8,7 @@
 
 /* Jumbotron */
 .jumbotron {
-    background: url(../img/img4.jfif);
+    background: url(../img/cakedisplay.jpg);
     background-size: cover;
     height: 540px;
     position: relative;
@@ -260,7 +260,7 @@
     .nav-link.active::after {
         content: '';
         display: block;
-        border-bottom: 3px solid #0B63DC;
+        border-bottom: 3px solid #ca2363;
         margin: auto;
         margin-bottom: -8px;
         width: 50%;
